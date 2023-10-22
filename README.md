@@ -32,34 +32,37 @@
 <img src="https://user-images.githubusercontent.com/104051002/274786370-aeafafbb-435e-4975-8457-f5cfa821dd1a.png" style="width: 1000px;">
 
 ### 페이지별 구현
-1. 장바구니
-<img src="https://private-user-images.githubusercontent.com/104051002/274780957-bd58d191-e270-42b7-853e-529dd37c1f3e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTcxNjYyOTYsIm5iZiI6MTY5NzE2NTk5NiwicGF0aCI6Ii8xMDQwNTEwMDIvMjc0NzgwOTU3LWJkNThkMTkxLWUyNzAtNDJiNy04NTNlLTUyOWRkMzdjMWYzZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAxM1QwMjU5NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNjBlZmEwYTZiNjExN2QyZTZmMDZmYTU5NWVhODAzYzY1ODUxOGVkZWM1ZjQ1NjQ4MDE4OTI1NDMyMzJkYTNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9GGhLTg5hkF6ct6ATQx0Rn48KB2bsVxk3f5fFYvGXHQ" alt="image" style="width: 1000px;">
+1. 배송지  
+![address](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%87%E1%85%A2%E1%84%89%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5.png)
 
-2. 배송지 관리
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104051002/274786658-e1740787-5b6d-409a-afa3-392e79fd6ff8.png" style="max-width: 100%;">
+2. 장바구니  
+![cart](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A1%E1%84%80%E1%85%AE%E1%84%82%E1%85%B5.png)
 
-3. 주문서
-<img src="https://private-user-images.githubusercontent.com/104051002/274781256-7ff925a3-70d0-4409-9e0e-336eb97badfc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTcxNjY4ODksIm5iZiI6MTY5NzE2NjU4OSwicGF0aCI6Ii8xMDQwNTEwMDIvMjc0NzgxMjU2LTdmZjkyNWEzLTcwZDAtNDQwOS05ZTBlLTMzNmViOTdiYWRmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAxM1QwMzA5NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ODg1MzY5ZjIzZGMyZmMwMTMzYmFjNmVlOTI4NWU4YzZhZjYwMTBmNjRlMGRjMzY2ZTM1MTI0NWZiYThiMWVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.eYXcYpcRs04TMUwe54OjenffLNAe2bkL9qwrlPqvo5I" alt="image" style="width: 1000px;">
+3. 배송지 관리  
+![address](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%87%E1%85%A2%E1%84%89%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5.png)
 
-5. 주문 완료
-<img src="https://private-user-images.githubusercontent.com/104051002/274781609-312986fb-fefd-4eb0-b863-75cf152e4eab.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTcxNjY5NDEsIm5iZiI6MTY5NzE2NjY0MSwicGF0aCI6Ii8xMDQwNTEwMDIvMjc0NzgxNjA5LTMxMjk4NmZiLWZlZmQtNGViMC1iODYzLTc1Y2YxNTJlNGVhYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAxM1QwMzEwNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNzI1NWFjYzUxMjAzOGU0ZjQ0Njc2YThlODczOTExN2ZiZjJiYzZhYTE1ZWMyMWI0YTY4OWZmODI2Y2NmNzRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.--jtCcHq1hs15f6FFD9AZeyiafv5MwMHmQEaTRU7soA" alt="image" style="width: 1000px;">
+4. 주문서  
+![order](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%8C%E1%85%AE%E1%84%86%E1%85%AE%E1%86%AB.png)
 
-7. 주문 내역
-<img src="https://private-user-images.githubusercontent.com/104051002/274781038-f9f7e19e-fa12-4020-b142-91f3be15b020.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTcxNjY5NzUsIm5iZiI6MTY5NzE2NjY3NSwicGF0aCI6Ii8xMDQwNTEwMDIvMjc0NzgxMDM4LWY5ZjdlMTllLWZhMTItNDAyMC1iMTQyLTkxZjNiZTE1YjAyMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAxM1QwMzExMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZDkwM2Q4NmJhMWI2Yjg4NzkwOWI3ZjFiNGU4MjRmMTQwNzVkZTVkYTljMzgyNTI2ZGU5OGQ2YTMyYzE3YjViJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.m3vs4ZGuqU1wnWpeiXThYYyfdr9j-KM9hKdiXaDUx34" alt="image" style="width: 1000px;">
+5. 주문 내역  
+![orderList](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%8C%E1%85%AE%E1%84%86%E1%85%AE%E1%86%AB%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.png)
 
-9. 주문 상세
-<img src="https://private-user-images.githubusercontent.com/104051002/274781171-59130a84-f462-4545-a07a-d34ebba32d3c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTcxNjY5OTQsIm5iZiI6MTY5NzE2NjY5NCwicGF0aCI6Ii8xMDQwNTEwMDIvMjc0NzgxMTcxLTU5MTMwYTg0LWY0NjItNDU0NS1hMDdhLWQzNGViYmEzMmQzYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAxM1QwMzExMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZWExZTJlZTgwMDc3ZDI5YmJlYWU2NzgyMzk4MTAwNTI4YmUyMzc1NzhmZWMyZGE0MzI2MmFkZWZjMzRmYzMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.TIgFWcjkGlgGIj620KuIIy8JPv_IIPUhcP2if3vm8JM" alt="image" style="width: 1000px;">
+6. 주문 상세  
+![orderDetail](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%8C%E1%85%AE%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6.png)
 
-11. 배송준비중 관리
-<img src="https://private-user-images.githubusercontent.com/104051002/274781404-1fdb36c9-9e17-471a-a12d-18e62fc71e2c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTcxNjcwMDksIm5iZiI6MTY5NzE2NjcwOSwicGF0aCI6Ii8xMDQwNTEwMDIvMjc0NzgxNDA0LTFmZGIzNmM5LTllMTctNDcxYS1hMTJkLTE4ZTYyZmM3MWUyYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAxM1QwMzExNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODc4Y2RjOWYyMjU3YjVkY2I4NjJiNGZiOTE5OWViMzJlZmE3ZGU2MTIwYWIzNzkyZmExODZhMDZkZTE5ZmM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.fahJrR25-57iPIxvm2BOTkbtbnbQhLrjCk3DuefEM3E" alt="image" style="width: 1000px;">
+7. 발주  
+![barjoo](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%AE.png)
 
-13. 배송중 관리
-<img src="https://private-user-images.githubusercontent.com/104051002/274781535-a5fdc52c-536d-4af4-845d-5b6c8e9a4f4d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTcxNjcwMDksIm5iZiI6MTY5NzE2NjcwOSwicGF0aCI6Ii8xMDQwNTEwMDIvMjc0NzgxNTM1LWE1ZmRjNTJjLTUzNmQtNGFmNC04NDVkLTViNmM4ZTlhNGY0ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAxM1QwMzExNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjhmMjMxNTM3YjZlYjY5MDcyZmIxNDliYzY2NWIwMjc1ZjIxZTY5ZmQ2NWEzMGMxOGI1YTI3YWNjYmJmYjMyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.hIjC8pCePdMfRCizAaAjR4Z1Ft20AWzAOIo3jYvYS-A" alt="image" style="width: 1000px;">
+8. 배송준비  
+![deliveryPrepare](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%87%E1%85%A2%E1%84%89%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%87%E1%85%B5.png)
 
-15. 배송완료 조회
-<img src="https://private-user-images.githubusercontent.com/104051002/274781551-0e8c522b-41dd-4f94-ad6e-1a6fd2dd0d5d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTcxNjcwMDksIm5iZiI6MTY5NzE2NjcwOSwicGF0aCI6Ii8xMDQwNTEwMDIvMjc0NzgxNTUxLTBlOGM1MjJiLTQxZGQtNGY5NC1hZDZlLTFhNmZkMmRkMGQ1ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAxM1QwMzExNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hOTExMDIwM2U2NWE0ZGRiM2QwNzY5NjEyMTkzNWUzNjg3MjA2Y2NiY2JmZGM4NjNjY2NhOWYyNzliYzY0MzUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7I3bP9CK3eSzSwVCBvb2c2rgntcbXBYwuabYexrsxRc" alt="image" style="width: 1000px;">
+9. 배송 중  
+![deliverying](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%87%E1%85%A2%E1%84%89%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%BC.png)
 
-16. 로그인 모달 
+10. 배송 완료  
+![deliveryComplete](https://github.com/taewan625/ezmeal-personal/blob/master/%E1%84%87%E1%85%A2%E1%84%89%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%85%E1%85%AD.png)
+
+11. 로그인 모달  
 <img src="https://user-images.githubusercontent.com/104051002/274786873-f6de4ef3-2aae-42de-9bfe-44e1350f8265.png" alt="image" style="width: 1000px;">
 
 ## reference
