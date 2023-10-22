@@ -1,5 +1,6 @@
 # ezmeal project
 - 실제 구현한 페이지에 관련된 파일만 최대한 추출
+- mapper, Controller, Service, Dao, Domain 패키지에 Java, SQL 코드 존재
 - 모든 서비스 로직은 https://github.com/taewan625/ezmeal-refactoring 에 존재
 
 ## 목차
